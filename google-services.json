@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753178013929",
+    "project_id": "konesi-firebase",
+    "storage_bucket": "konesi-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753178013929:android:415280f7212cf1490b4078",
+        "android_client_info": {
+          "package_name": "com.anonymous.firebaseauthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753178013929-2ol2rsfbfliknkmji1856g9kgp8b5fm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVHYVaURcuOc0h6DroP4CJK6eiLijuMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753178013929-2ol2rsfbfliknkmji1856g9kgp8b5fm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
